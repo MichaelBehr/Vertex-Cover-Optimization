@@ -12,7 +12,7 @@ This project involves solving the vertex cover, optimization problem using Pytho
 
 ### A1
 #### Sample Input
-The input comprises lines each of which specifies a command. There are 4 kinds of commands.
+The input comprises lines each of which specifies a command. There are 4 kinds of commands that can be entered:
 * add a street
 * change a street
 * remove a street
@@ -55,6 +55,8 @@ E={
 * c is used to change the specification of a street. Its format is the same as for a. It is a new specification for a street you’ve specified before.
 * r is used to remove a street. It is specified as “r "Street Name"”. 
 * g causes the program to output the corresponding graph.
+
+Any other command entered will result in an error message.
 
 ### A2
 For this assignment, you need to write a program that takes input till it sees an EOF.
