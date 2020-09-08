@@ -1,5 +1,5 @@
 # ECE650
-This project involves solving the vertex cover, optimization problem using Python, and C++. All descriptions for each assignment are pulled directly from the PDF descriptions provided through the course. 
+This project involves solving the vertex cover, optimization problem using Python, and C++. All descriptions for each assignment are pulled directly from the PDF descriptions provided throughout the course. 
 
 ### Main Technology
 * Languages: Python, C++
